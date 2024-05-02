@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-mongodb+srv://jtdecastro:Vq7UAJDDYZnOJdjT@cluster0.3cyd7rt.mongodb.net/ICS?retryWrites=true&w=majority&appName=Cluster0
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
